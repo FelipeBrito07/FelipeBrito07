@@ -16,7 +16,7 @@ garantindo sempre a entrega de valor que a empresa precisa, independentemente da
   Script em SQL para analisar vendas e devoluções.
 
 ## 💼 Experiência
-- **Analista de Dados - ACT Digital**
+- **Analista de Dados - ACT Digital** 
   1 ano de experiência apoiando a área de marketing da TIM com análises de dados,
   criação de relatórios e automação de processos,
   contribuindo para redução de custos e ganho de eficiência nas operações.
