@@ -17,7 +17,6 @@ garantindo sempre a entrega de valor que a empresa precisa, independentemente da
 
 ## 💼 Experiência
 - **Analista de Dados - ACT Digital**
-  
   1 ano de experiência apoiando a área de marketing da TIM com análises de dados,
   criação de relatórios e automação de processos,
   contribuindo para redução de custos e ganho de eficiência nas operações.
