@@ -1,6 +1,8 @@
 # Olá! 👋
-Sou um Analista de Dados focado em transformar informações em insights que apoiam decisões estratégicas, reduzem custos e otimizam processos. 
-Tenho facilidade em aprender rapidamente novas ferramentas e aprimorar as que já domino, sempre buscando a solução mais eficiente para cada desafio.
+  Sou um Analista de Dados orientado a resultados, com foco em transformar informações em insights que apoiam decisões estratégicas, 
+reduzem custos e otimizam processos. 
+  Tenho facilidade em aprender rapidamente novas ferramentas e aprimorar as que já domino, 
+garantindo sempre a entrega de valor que a empresa precisa, independentemente da tecnologia utilizada.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: Python, SQL
