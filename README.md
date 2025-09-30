@@ -1,10 +1,11 @@
 # Olá! 👋
-Sou um Analista de Dados com foco em transformar dados em insights valiosos para o negócio. Trabalho com ferramentas como Excel, SQL, Power BI e Python para criar análises impactantes.
+Sou um Analista de Dados focado em transformar informações em insights que apoiam decisões estratégicas, reduzem custos e otimizam processos. 
+Tenho facilidade em aprender rapidamente novas ferramentas e aprimorar as que já domino, sempre buscando a solução mais eficiente para cada desafio.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: Python, SQL
-- **Ferramentas de Visualização**: Power BI, Tableau
-- **Outras Ferramentas**: Excel
+- **Ferramentas de Visualização**: Power BI, Looker, Tableau
+- **Outras Ferramentas**: Excel, Power Point
 
 ## 🔍 Projetos Destacados
 - [Análise de Vendas e Devoluções](https://www.linkedin.com/posts/felipe-soaresbrito_meu-primeiro-projeto-de-portf%C3%B3lio-com-power-activity-7220814591574851585-Yaz1?utm_source=share&utm_medium=member_desktop)  
@@ -25,6 +26,8 @@ Sou um Analista de Dados com foco em transformar dados em insights valiosos para
 ## 🏆 Conquistas e Certificações
 - Certificado em SQL pela Hashtag Treinamentos
 - Certificado em Power BI pela Hashtag Treinamentos
+- Certificado em Pyhton pela Hashtag Treinamentos
+- Curso de Análise de Dados pela Hashtag Treinamentos
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/felipe-soaresbrito/)
